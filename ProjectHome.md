@@ -1,0 +1,1 @@
+CUDA based burrow wheeler transform on human genome, mostly done, need further code for refinement which handle the long repetitive in the sequence. Currently can handle up to 19-mer repetitive sequence.
