@@ -2,7 +2,7 @@
  * bwt.h
  *
  *  Created on: May 2, 2014
- *      Author: jiang
+ *      Author: Ruhua Jiang
  */
 #include <stdint.h>
 #ifndef BWT_H_
